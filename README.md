@@ -35,7 +35,7 @@ This Flutter app simulates video and audio call functionality, allowing users to
 
 git clone https://github.com/EedupugantiVenkatesh/Flutter-Video-Audio-Call-Simulator.git
 
-cd call_console
+cd Flutter-Video-Audio-Call-Simulator
 
 flutter pub get
 
