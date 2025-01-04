@@ -39,3 +39,4 @@ cd Flutter-Video-Audio-Call-Simulator
 
 flutter pub get
 
+flutter run
